@@ -1,0 +1,12 @@
+Symulacja osiagnela zadana liczbe cykli 
+Symulacja trwala: 50 tur 
+Poczatkowa liczba ludzi wynosila: 40 
+Poczatkowa liczba wilkolakow wynosila: 3 
+Poczatkowa liczba wampirow wynosila: 2 
+Poczatkowa liczba broni na wilkolaki wynosila: 20 
+Poczatkowa liczba broni na wampiry wynosila: 6 
+30 Ludzi zostalo przemienionych w wampiry 
+4 Ludzi zostalo pozartych przez wilkolaki 
+2 Wilkolakow zostalo zabitych 
+7 Wampirow zostalo zabitych 
+20 Sztuk(i) broni zostalo podniesionych 
